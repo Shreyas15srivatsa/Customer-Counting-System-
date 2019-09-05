@@ -1,4 +1,4 @@
-# Customer Counting System - An Embedded System Project
+# LaserTrack - An Embedded System Project
 
 ## About
 - Developed an embedded system powered by a Raspberry Pi that keeps track of
